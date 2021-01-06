@@ -13,7 +13,7 @@
         "package": "rimraf ./pre-target && rimraf ./target && npm run clean && npm run lint && webpack --mode production --config webpack.maven.js"
     },
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "react": "16.13.1",
         "react-dom": "^16.13.1",
         "react-redux": "^7.2.0",
